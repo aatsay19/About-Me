@@ -1,5 +1,5 @@
 # About Me
-My name is Aatif Sayed. I'm from New Jersey. Currently, I am a third year (junior) undergraduate student at Rutgers University - New Brunswick pursuing a Bachelor of Science degree (Expected Graduation Date: May 2023). I am majoring in Computer Science and pursuing a double minor in Economics and Data Science.
+My name is Aatif Sayed, I'm from New Jersey. Currently, I am a third year (junior) undergraduate student at Rutgers University - New Brunswick pursuing a Bachelor of Science degree (Expected Graduation Date: May 2023). I am majoring in Computer Science and pursuing a double minor in Economics and Data Science.
 
 LinkedIn URL: www.linkedin.com/in/aatif-sayed <br/><br/>
 
