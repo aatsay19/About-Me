@@ -1,11 +1,18 @@
 # About Me
 <ins>Name</ins>: Aatif Sayed<br/>
 <ins>Location</ins>: NYC Metropolitan Area / New Jersey (North/Central Jersey)<br/>
-Currently finishing up my last semester at Rutgers University - New Brunswick<br/>
-Pursuing a Bachelor of Science degree (Expected Graduation Date: May 2023)<br/>
-Major: Computer Science<br/><br/>
+<ins>Education</ins>: Rutgers University - New Brunswick (Expected Graduation Date: May 2023)<br/>
+<ins>Degree</ins>: Bachelor of Science (B.S.)<br/>
+<ins>Major</ins>: Computer Science<br/><br/>
 
-LinkedIn URL: www.linkedin.com/in/aatif-sayed <br/><br/>
+Currently looking for a full-time software engineering/data science job. Available to work from January 16, 2023 onwards. Also open to co-ops/internships <br/><br/>
+
+<ins>LinkedIn URL</ins>: www.linkedin.com/in/aatif-sayed<br/>
+<ins>Email</ins>: aatifsayed9@gmail.com<br/><br/>
+
+# Work Experience
+  - Emerging Technologies Intern @ Johnson & Johnson Technology Services (May 2022 - Dec. 2022)
+    - TODO
 
 # Education 
 ### College/University Education
@@ -31,15 +38,25 @@ Relevant Coursework:
     - MATH 152: Calculus II for the Mathematical/Physical Sciences
     - MATH 250: Introduction to Linear Algebra
     - MATH 251: Multivariable Calculus
-  - Other Important/Core Classes
+  - Other
     - STAT 211: Statistics I (AP'd out of this course)
     - STAT 384: Intermediate Statistical Analysis
     - PHIL 201: Introduction to Logic
+
 <br/><br/>
 
 ### High School Education
 I graduated from the Academy for Engineering and Design Technology (AEDT) at Bergen County Academies (BCA) in Hackensack, NJ. BCA is consistently ranked as one of the most prestigious high schools for academics in the United States.<br/><br/>
-Highest Level/Relevant Courses:
+Notable Courses:
+  - PLTW/Engineering Courses
+    - Introduction to Engineering and Design I
+    - Introduction to Engineering and Design II
+    - Principles of Engineering, Mathematics, and Science
+    - Computer Integrated Manufacturing
+    - Digital Electronics
+    - Intermediate Electrical Engineering
+    - Advanced Electrical Engineering
+    - Engineering Capstone
   - AP Courses
     - AP Computer Science A
     - AP Calculus AB
@@ -50,20 +67,7 @@ Highest Level/Relevant Courses:
     - IB History of the Americas HL (2-year course)
     - IB English A: Literature and Language HL (2-year course)
     - IB Spanish B SL
-  - PLTW (Engineering) Courses
-    - Introduction to Engineering and Design I
-    - Introduction to Engineering and Design II
-    - Principles of Engineering
-    - Computer Integrated Manufacturing
-    - Digital Electronics
   - Other
     - Introduction to JAVA Programming
-    - Intermediate Electrical Engineering
-    - Advanced Electrical Engineering
-    - Engineering Capstone
     - Physical-Organic Chemistry
     - Advanced Biology
-<br/><br/>
-
-# Contact Information
-E-mail: aatifsayed9@gmail.com
