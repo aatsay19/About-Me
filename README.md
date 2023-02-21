@@ -5,7 +5,7 @@
 <ins>Degree</ins>: Bachelor of Science (B.S.)<br/>
 <ins>Major</ins>: Computer Science<br/><br/>
 
-Currently looking for a full-time software engineering/data science job. Available to work from January 16, 2023 onwards. Also open to co-ops/internships <br/><br/>
+Currently looking for a full-time software engineering job. Available to work ASAP. Also open to co-ops/internships <br/><br/>
 
 <ins>LinkedIn URL</ins>: www.linkedin.com/in/aatif-sayed<br/>
 <ins>Email</ins>: aatifsayed9@gmail.com<br/><br/>
@@ -32,6 +32,8 @@ Relevant Coursework:
     - CS 352: Internet Technology
     - CS 416: Operating Systems
     - CS 417: Distributed Systems
+    - CS 419: Computer Security
+    - CS 431: Software Engineering
     - CS 439: Introduction to Data Science
   - Mathematics
     - MATH 151: Calculus I for the Mathematical/Physical Sciences (AP'd out of this course)
